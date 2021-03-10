@@ -2,16 +2,26 @@ body {
   background-color:#F5F5F5;
 }
 
-.wrapper {
-padding:80px;
+.header
+{
+  margin-left: 0;
+  padding-left: 0;
+}
+
+
+.wrapper { 
+margin-left: 100px;
+margin-right: 700px;
+padding-left:80px;
 
 
 }
 
 #welcome-to-my-portfolio-page
 {
- 
- border-bottom: 1px solid #989898;
+ font-size: large;
+ font-family: open sans;
+ border-bottom: 1px solid #8b5a5a;
  padding: 8px;
- margin: 0;
+ 
 }
