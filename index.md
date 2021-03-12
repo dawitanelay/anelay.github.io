@@ -22,14 +22,14 @@ Now doing Computational Mathematics for Learning and Data Analysis Project:
 
 BSc in Electrical and Computer Engineering: 10/2012-07/2017
 
-### professional training:
+#### professional training:
 Provider:Oracle University
 courses:
   - Oracle Solaris 11 System Administrator
   - Oracle Linux 5 and 6 System Administrator
   - Oracle WebLogic Server 11g System Administrator
   
-### Online courses:
+#### Online courses:
   Provider: coursera.org && udemy
   - Linux Automation using Bash Scripting 
   - The Complete Node.js Developer
