@@ -42,12 +42,18 @@ Duration: 03/2018 - 10/2019
 
 ### United System Integrators:
 Position: full time paid intern
+
 Role: Network Administrator
+
 duration: 03/2018 – 8/2018
+
 ### Software Engineering Virtual Internship at JPMorgan Chase
 Position: Remote internship
+
 Role: Software Engineering
+
 duration: 01/2021 – 2/2021
+
 ### Contact:
 <dawitmezemir@gmail.com>
 <dawit12mezemir@gmail.com>
