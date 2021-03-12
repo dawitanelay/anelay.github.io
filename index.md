@@ -14,10 +14,9 @@ Now doing Computational Mathematics for Learning and Data Analysis Project:
 coding with:
     1 **Python:** programming language
 ### Addis Ababa-University:
-***
+
 BSc in Electrical and Computer Engineering: 10/2012-07/2017
 ### professional training:
-***
 Provider:Oracle University
 courses:
   1 Oracle Solaris 11 System Administrator
