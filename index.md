@@ -7,7 +7,9 @@ Hi. I am **Dawit Mezemir**.
 ### University of Pisa:
 ***
 MSc in Computer Science: 10/2019 - Ongoing
+
 Now doing Computational Mathematics for Learning and Data Analysis Project:
+
 **Estimating the matrix norm ∥A∥2 an (unconstrained) maximum problem Using:**
     1 Conjugate gradient descent algorithm
     2 Quasi-Newton method and Arnoldi process
@@ -44,6 +46,7 @@ Position: Remote internship
 Role: Software Engineering
 duration: 01/2021 – 2/2021
 ### Contact:
+<dawitmezemir@gmail.com>
 <dawit12mezemir@gmail.com>
 
 [Linkedin profile](https://www.linkedin.com/in/dawit-mezemir-9a2055118/)
