@@ -16,7 +16,7 @@ Now doing Computational Mathematics for Learning and Data Analysis Project:
   
   - Quasi-Newton method and Arnoldi process
     
-coding with:
+-coding with:
     - **Python:** programming language
 ### Addis Ababa-University:
 
