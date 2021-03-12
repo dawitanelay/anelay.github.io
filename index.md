@@ -10,10 +10,11 @@ MSc in Computer Science: 10/2019 - Ongoing
 
 Now doing Computational Mathematics for Learning and Data Analysis Project:
 
-**Estimating the matrix norm ∥A∥2 an (unconstrained) maximum problem Using:**
+**Estimating the matrix norm ∥A∥2 an (unconstrained) maximum problem Using**:
 
     1. Conjugate gradient descent algorithm
     2. Quasi-Newton method and Arnoldi process
+    
 coding with:
     1. **Python:** programming language
 ### Addis Ababa-University:
