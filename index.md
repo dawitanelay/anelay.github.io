@@ -10,7 +10,7 @@ MSc in Computer Science: 10/2019 - Ongoing
 
 Now doing Computational Mathematics for Learning and Data Analysis Project:
 
-1.Estimating the matrix norm ∥A∥2 an (unconstrained) maximum problem Using:
+1.**Estimating the matrix norm ∥A∥2 an (unconstrained) maximum problem Using:
 
   1.Conjugate gradient descent algorithm
   
