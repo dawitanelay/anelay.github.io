@@ -13,6 +13,7 @@ Now doing Computational Mathematics for Learning and Data Analysis Project:
 1.Estimating the matrix norm ∥A∥2 an (unconstrained) maximum problem Using:
 
   1.Conjugate gradient descent algorithm
+  
   2.Quasi-Newton method and Arnoldi process
     
 coding with:
