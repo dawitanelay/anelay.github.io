@@ -35,8 +35,11 @@ certificates are attached at my linkedin profile [page](https://www.linkedin.com
 ***
 **EthSwitch S.C:**
 Position:full time System Administrator I
+
 Role: Linux System Administrator
+
 Duration: 03/2018 - 10/2019
+
 ### United System Integrators:
 Position: full time paid intern
 Role: Network Administrator
