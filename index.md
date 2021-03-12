@@ -46,6 +46,7 @@ Role: Software Engineering
 duration: 01/2021 – 2/2021
 ### Contact:
 <dawit12mezemir@gmail.com>
+
 [Linkedin profile](https://www.linkedin.com/in/dawit-mezemir-9a2055118/)
 
 
