@@ -6,7 +6,7 @@ Hi. I am **Dawit Mezemir**.
 ***
 ### University of Pisa:
 
-MSc in Computer Science - **Artificial intelligence specialization : 10/2019 - Ongoing
+MSc in Computer Science - **Artificial intelligence specialization** : 10/2019 - Ongoing
 
 Now doing Computational Mathematics for Learning and Data Analysis Project:
 
