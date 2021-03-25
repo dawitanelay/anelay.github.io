@@ -2,7 +2,7 @@
 ***
 ## Summery
 ***
-A clear knowlage of Linux and Unix Os system with work experience in an enterprise data center environment. Oracle certified associates in Linux 6 and Solaris 11. Aable to Automate tasks using bash and python,friendly with configuration management to Automation at scale and in the cloud using puppet .I’m spending my time leanring DevOps technoglogy . 
+I have a good knowlage of Linux and Unix Os system with work experience in an enterprise data center environment. Oracle certified associates in Linux 6 and Solaris 11. Aable to Automate tasks using bash and python,friendly with configuration management to Automation at scale and in the cloud using puppet .I’m spending my time leanring DevOps technoglogy . 
 
 Hi. I am **Dawit Mezemir**. 
   please follow the [github profile](https://github.com/dawitanelay) button above to go through my public projects.
