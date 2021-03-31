@@ -4,7 +4,7 @@ Hi :wave:. I am **Dawit Mezemir** call me dave .
   please follow the [github profile](https://github.com/dawitanelay) button above to go through my public projects.
 ## About me 
 
-I have a good knowledge of Linux and Unix Os system with work experience in an enterprise data center environment. Oracle certified associates in Linux 6 and Solaris 11. Able to Automate tasks using bash and python, friendly with configuration management tools like Ansible and puppet to Automation at scale and in the cloud using terraform. I’m spending my time learning DevOps technology. 
+I have a good knowledge of Linux and Unix Os system with work experience in an enterprise data center environment. Oracle certified associates in Linux 6 and Solaris 11.  Enjoye Automating tasks using bash and python, friendly with configuration management tools like Ansible and puppet to Automation at scale and in the cloud using terraform. I’m spending my time learning DevOps technology. 
 
 ## Education
 
