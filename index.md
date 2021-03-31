@@ -36,7 +36,7 @@ courses:
   
 #### Online courses:
   Provider: coursera.org && udemy
-  - Configuration Management and the Cloud Coursera | Google
+  - Configuration Management and the Cloud Google
   - Linux Automation using Bash Scripting 
   - The Complete Node.js Developer
  
