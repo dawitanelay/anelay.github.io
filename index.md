@@ -8,7 +8,7 @@ I have a good knowlage of Linux and Unix Os system with work experience in an en
 
 
 ## Education
-***
+
 ### University of Pisa:
 
 MSc in Computer Science - **Artificial intelligence specialization** : 10/2019 - Ongoing
@@ -42,7 +42,7 @@ courses:
  
 certificates are attached at my linkedin profile [page](https://www.linkedin.com/in/dawit-mezemir-9a2055118/)
 ### Work Experience:
-***
+
 **EthSwitch S.C:**
 Position:full time System Administrator I
 
